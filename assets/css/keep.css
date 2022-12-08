@@ -1,0 +1,55 @@
+.cdimg{
+    border-radius:50% ;
+    height: 15rem;
+    width: 15rem;
+    object-fit: cover;
+}
+.card-size{
+    width:20%;
+    
+}
+
+
+
+@media screen and (max-width:1000px){
+    .card-size{
+      width: 100%;
+}
+}
+@media screen and (min-width:1001px){
+   .card-size{
+    display:inline-block;
+   }
+   .c4{
+    position: relative;
+    top:23rem;
+    right:7rem;
+   }
+   .c5{
+    position: relative;
+    left:27rem;
+   }
+   .c3{
+    position: relative;
+    left:21rem;
+   }
+   .c2{
+    position: relative;
+    left: 21rem;
+   }
+   .c1{
+    position: relative;
+    left:21rem;
+   }
+}
+
+
+
+
+
+
+  
+ 
+      
+  
+ 
